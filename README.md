@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @karanjoshi1206
 - 👀 I’m interested in Frontend development 
+- 👀 Experience in ReactJs | JavaScript | HTML5 | CSS3 | Firebase.  
 - 🌱 I’m currently learning React native.
 - 💞️ I’m looking to collaborate on projects related to web development 
 - 📫 You can react me via joshikaran392@gmail.com
